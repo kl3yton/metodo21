@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /img/
+
+Sitemap: https://metodo21.site/sitemap.xml
