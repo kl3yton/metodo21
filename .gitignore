@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+
+# # Build de produção (se não for versionar o build final)
+# dist/ desativado
+
+# Variáveis de ambiente
+.env
+.env*.local
+
+# Logs
+*.log
