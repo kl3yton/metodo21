@@ -2,7 +2,7 @@
 
 Landing page de alta conversão desenvolvida para o **Método 21**, um programa multidisciplinar de 21 dias voltado para saúde, emagrecimento sustentável, recomposição corporal e desenvolvimento emocional feminino.
 
-🔗 **Acesse o site:** [metodo21.site](https://metodo21.site/)
+**Acesse o site:** [metodo21.site](https://metodo21.site/)
 
 ---
 
