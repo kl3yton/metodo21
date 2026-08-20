@@ -6,7 +6,7 @@ Landing page de alta conversão desenvolvida para o **Método 21**, um programa 
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 A landing page foi desenvolvida estrategicamente para captar leads e impulsionar as inscrições do desafio. A página reúne argumentos de vendas diretos, quebra de objeções e apresentação da equipe técnica multidisciplinar:
 
@@ -19,7 +19,7 @@ A landing page foi desenvolvida estrategicamente para captar leads e impulsionar
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5 Semântico:** Estrutura clara e acessível, com hierarquia otimizada para SEO.
 - **CSS3 Moderno:** Layout responsivo, animações sutis de transição e paleta visual com foco no público feminino.
@@ -28,7 +28,7 @@ A landing page foi desenvolvida estrategicamente para captar leads e impulsionar
 
 ---
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 - **Design 100% Responsivo:** Experiência fluida e adaptada para dispositivos móveis e desktop.
 - **Tabela de Lotes com Escassez:** Indicação clara de lotes encerrados e lotes vigentes para acelerar a tomada de decisão.
